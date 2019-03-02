@@ -11,4 +11,8 @@
  	react-native run-android
  
  # Structure
- ![alt text](https://github.com/emmanuelcampos/testFrontEnd/blob/master/image/1.png)
+ ![alt text](https://github.com/emmanuelcampos/testFrontEnd/blob/master/image/3.png)
+ 
+ 	
+
+
