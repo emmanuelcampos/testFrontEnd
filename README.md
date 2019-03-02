@@ -13,9 +13,8 @@
  # Structure
  ![alt text](https://github.com/emmanuelcampos/testFrontEnd/blob/master/image/3.png)
  
- # Description 
-The structure of the project is composed from the folder "src" inside this folder we have two folders "config", "App"
-"App"
+ # Description: The structure of the project is composed from the folder "src" inside this folder we have two folders "config", "App"
+
 	-> assest: static files
  	-> component: contains the components without store  
  	->commons: reusable components (text, button)
