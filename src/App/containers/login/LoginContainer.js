@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import { NavigationActions, StackActions } from 'react-navigation';
+import { Alert } from 'react-native';
 
 import Login from '../../components/login/Login';
 import { getToken, getValue } from '../../utils/storage';
