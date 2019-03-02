@@ -30,7 +30,21 @@
 	-> utils: Utilities to be used within the application
  
 # Execute project	
- 	
+![alt text](https://github.com/emmanuelcampos/testFrontEnd/blob/master/image/4.png)
+
+#Login whit user and password to github
+
+![alt text](https://github.com/emmanuelcampos/testFrontEnd/blob/master/image/5.png)
+
+#Boton close session and search topics
+
+![alt text](https://github.com/emmanuelcampos/testFrontEnd/blob/master/image/6.png)
+
+#Search topic in text search
+
+![alt text](https://github.com/emmanuelcampos/testFrontEnd/blob/master/image/7.png)
+
+#Infinite scroll scrolling down
  
  	
 
