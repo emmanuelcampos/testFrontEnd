@@ -7,3 +7,5 @@
 # Run project
  react-native run-android
  
+ # Structure
+ ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
