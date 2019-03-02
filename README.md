@@ -28,6 +28,8 @@
 	-> sagas: all the sagas approved with [name] Saga and an index that includes all the sagas
 	-> services: servivios for external calls (api, sockets etc)
 	-> utils: Utilities to be used within the application
+ 
+# Execute project	
  	
  
  	
